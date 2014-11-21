@@ -5,4 +5,5 @@ color: white
 fa-icon: lock
 ---
 
-#System Information (About this Mac) call home
+#System Information (About this Mac)
+call home

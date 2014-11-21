@@ -5,7 +5,7 @@ color: white
 fa-icon: lock
 ---
 
-# Spotlight sends search and location information to Apple and 3rd parties
+# Spotlight sends search and location information to Apple 3rd parties
 
 ### Explanation
 

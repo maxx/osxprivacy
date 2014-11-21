@@ -1,6 +1,6 @@
 ---
 title: "iCloud"
-bg: white
+bg: lightgray
 color: black
 fa-icon: lock
 ---

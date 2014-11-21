@@ -1,6 +1,6 @@
 ---
 title: "Mail"
-bg: white
+bg: lightgray
 color: black
 fa-icon: lock
 ---
